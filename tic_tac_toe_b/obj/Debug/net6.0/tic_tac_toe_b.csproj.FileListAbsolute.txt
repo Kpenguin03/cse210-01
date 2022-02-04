@@ -1,0 +1,15 @@
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.csproj.AssemblyReference.cache
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.AssemblyInfoInputs.cache
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.AssemblyInfo.cs
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.csproj.CoreCompileInputs.cache
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\bin\Debug\net6.0\tic_tac_toe_b.exe
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\bin\Debug\net6.0\tic_tac_toe_b.deps.json
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\bin\Debug\net6.0\tic_tac_toe_b.runtimeconfig.json
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\bin\Debug\net6.0\tic_tac_toe_b.dll
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\bin\Debug\net6.0\ref\tic_tac_toe_b.dll
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\bin\Debug\net6.0\tic_tac_toe_b.pdb
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.dll
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\ref\tic_tac_toe_b.dll
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.pdb
+C:\Users\kriss\Documents\BYUI Documents\Winter_2022\Programing_with_classes\cse210-01\Krisst_C#_Projects\tic_tac_toe_b\obj\Debug\net6.0\tic_tac_toe_b.genruntimeconfig.cache
